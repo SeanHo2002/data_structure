@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(25): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(25): warning C4244: '引數': 將 'float' 轉換為 'const int'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(29): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(29): warning C4244: '引數': 將 'float' 轉換為 'const int'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(33): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(33): warning C4244: '引數': 將 'float' 轉換為 'const int'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(38): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(38): warning C4244: '引數': 將 'float' 轉換為 'const int'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(40): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(40): warning C4244: '引數': 將 'float' 轉換為 'const int'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(51): warning C4244: '引數': 將 'const float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(79): warning C4244: '=': 將 'const int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(88): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(107): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+c:\users\seanh\desktop\c++\hw_1103\practice\polynomial.h(107): warning C4244: '引數': 將 'float' 轉換為 'const int'，由於類型不同，可能導致資料遺失
+  practice.vcxproj -> C:\Users\seanh\Desktop\c++\hw_1103\x64\Debug\practice.exe

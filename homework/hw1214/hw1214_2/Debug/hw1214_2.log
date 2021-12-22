@@ -1,0 +1,4 @@
+﻿  hw1214_2.cpp
+C:\Users\seanh\Desktop\c++\hw1214\hw1214_2\hw1214_2.cpp(8,2): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'Locate' 的左方
+C:\Users\seanh\Desktop\c++\hw1214\hw1214_2\hw1214_2.cpp(62): warning C4715: 'Stacks<Locate>::Pop': 不是所有控制路徑都傳回值
+  hw1214_2.vcxproj -> C:\Users\seanh\Desktop\c++\hw1214\Debug\hw1214_2.exe

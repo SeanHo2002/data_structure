@@ -1,0 +1,8 @@
+﻿  hw1214_1.cpp
+C:\Users\seanh\Desktop\c++\hw1214\hw1214\hw1214_1.cpp(118,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\seanh\Desktop\c++\hw1214\hw1214\hw1214_1.cpp(164,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\seanh\Desktop\c++\hw1214\hw1214\hw1214_1.cpp(92): warning C4715: 'icp': 不是所有控制路徑都傳回值
+C:\Users\seanh\Desktop\c++\hw1214\hw1214\hw1214_1.cpp(108): warning C4715: 'isp': 不是所有控制路徑都傳回值
+C:\Users\seanh\Desktop\c++\hw1214\hw1214\hw1214_1.cpp(56): warning C4715: 'Stacks<char>::Pop': 不是所有控制路徑都傳回值
+C:\Users\seanh\Desktop\c++\hw1214\hw1214\hw1214_1.cpp(56): warning C4715: 'Stacks<int>::Pop': 不是所有控制路徑都傳回值
+  hw1214.vcxproj -> C:\Users\seanh\Desktop\c++\hw1214\Debug\hw1214.exe

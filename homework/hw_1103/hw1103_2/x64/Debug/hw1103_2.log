@@ -1,0 +1,3 @@
+﻿  hw1103_2.cpp
+c:\users\seanh\desktop\c++\hw_1103\hw1103_2\polynomial.h(60): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw1103_2.vcxproj -> C:\Users\seanh\Desktop\c++\hw_1103\x64\Debug\hw1103_2.exe

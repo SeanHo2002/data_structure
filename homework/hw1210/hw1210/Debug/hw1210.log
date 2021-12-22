@@ -1,0 +1,6 @@
+﻿  hw1210.cpp
+C:\Users\seanh\Desktop\c++\hw1210\hw1210\hw1210.cpp(116,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\seanh\Desktop\c++\hw1210\hw1210\hw1210.cpp(107): warning C4715: 'isp': 不是所有控制路徑都傳回值
+C:\Users\seanh\Desktop\c++\hw1210\hw1210\hw1210.cpp(55): warning C4715: 'Stacks<char>::Pop': 不是所有控制路徑都傳回值
+C:\Users\seanh\Desktop\c++\hw1210\hw1210\hw1210.cpp(91): warning C4715: 'icp': 不是所有控制路徑都傳回值
+  hw1210.vcxproj -> C:\Users\seanh\Desktop\c++\hw1210\Debug\hw1210.exe
